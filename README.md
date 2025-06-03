@@ -1,5 +1,5 @@
 
-Hi, I'm Oscar Emmanuel López Jiménez — Informatics Engineer with hands-on experience in system diagnostics, hardware/software testing, and automation using Python and Linux environments. Currently working at IBM as a Test Engineer, I’m passionate about backend development and eager to transition into QA engineering or backend roles. Self-taught, proactive, and committed to continuous learning.
+Hi, I'm Oscar Emmanuel López Jiménez — Informatics Engineer with hands-on experience in system diagnostics, hardware/software testing, and automation using Python and Linux environments. Currently working at Foxconn as a Test Engineer, I’m passionate about backend development and eager to transition into QA engineering or backend roles. Self-taught, proactive, and committed to continuous learning.
 
 - 🔧 I enjoy building tools and automating tasks with Python.
 - 📘 Constantly learning and improving my skills in QA, backend, and software development.
