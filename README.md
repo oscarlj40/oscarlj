@@ -36,5 +36,5 @@ Hi, I'm Oscar Emmanuel López Jiménez — Informatics Engineer with hands-on ex
 
 ## 📫 Contact
 
-- 📧 Email: oscaremmanueloj526@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/oscar-emmanuel-lopez-jimenez-78ab03227/)
+- 📧 Email: oscaremmanuel0526@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/oscar-emmanuel-lopez-jimenez-78ab03227/](https://www.linkedin.com/in/oscar-emmanuel-lopez-jimenez-78ab03227/)
